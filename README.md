@@ -1,2 +1,2 @@
-# Project-C-
+# Project-C++
 Project Pemograman Bahasa c++
